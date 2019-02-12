@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
     PMR Update
     Statefarm insurance
+    Project for telematics
 
 # THANKS
 

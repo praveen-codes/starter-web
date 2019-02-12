@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 ## GIT comparision
 Adding this to repo to demonstrate GIT comparision.
 This line has also been changed
+
+Merge examples
